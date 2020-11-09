@@ -1,4 +1,4 @@
-<h2 align="center">Juego-de-combinacion-de-Mosaicos &nbsp;:heart:&nbsp;</h2>
+<h2 align="center">Juego-de-combinacion-de-Mosaicos &nbsp;🎲&nbsp;</h2>
 
 <p align="center">
   
