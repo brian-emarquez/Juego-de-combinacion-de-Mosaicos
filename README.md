@@ -13,4 +13,4 @@
   </a> 
 </p>
   
-![python](./Images/GIF.gif)
+![python](./images/GIF.gif)
