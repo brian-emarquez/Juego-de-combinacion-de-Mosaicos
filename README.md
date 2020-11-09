@@ -13,4 +13,4 @@
   </a> 
 </p>
   
-![python](./images/GIF.gif)
+<div align="center"><img src="./images/GIF.gif"></div>
